@@ -1,0 +1,1 @@
+const away = 'hello world';
